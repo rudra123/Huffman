@@ -1,4 +1,4 @@
 Huffman
 =======
 
-C++ code for Huffman's algorithm using OOPS.
+C++ code for Huffman's algorithm using OOPS. Test
